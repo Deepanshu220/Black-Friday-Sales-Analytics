@@ -1,7 +1,9 @@
 # Black Friday Sales Data Analytics
 
 ## Project Overview
+
 This project presents an end-to-end interactive retail analytics dashboard developed using Power BI on over 550,000 Black Friday transaction records. The objective is to analyze customer purchasing behavior, identify high-value customer segments, evaluate product performance, and generate actionable business insights through dynamic visualizations and data storytelling.
+
 ---
 
 ## Business Problem
@@ -54,20 +56,11 @@ The dataset contains approximately **550,000 retail transactions** collected dur
 
 ## Tools & Technologies
 
-### Data Analysis
-
-* Python
-* Pandas
-* NumPy
-
 ### Visualization
 
 * Matplotlib
 * Seaborn
 * Power BI
 
-
-
-This project is intended for educational, analytical, and portfolio purposes.
 
 ⭐ If you found this project useful, consider giving it a star.
